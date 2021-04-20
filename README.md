@@ -27,6 +27,8 @@ Clone repository from [github.com/kaylabartley/social-network-api](github.com/ka
 
 From your command-line, change your directory to the repository and run application by typing npm i to install the dependencies and npm start to run the server. Test APIs on Insomnia.
 
+[Walkthrough](https://drive.google.com/file/d/1bxYgNBEvMQTOAO0r1iiv1Q_CwV-S6BHg/view)
+
 
 
 ## Licenses
